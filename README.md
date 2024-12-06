@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://cdn.pixabay.com/photo/2018/10/12/12/32/security-3742114_1280.jpg" align="center" style="width: 100%" />
+<img src="![image](https://github.com/user-attachments/assets/5c59b010-d10e-491c-9675-0d0c8b0bc14d)
+" align="center" style="width: 100%" />
 </div>  
   
 
